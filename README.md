@@ -36,7 +36,7 @@
 
 1. `Настройки проекта.`
 
-![Pipeline script](https://github.com/Pezu-git/netology-8-02-hw/blob/main/img/pipelineconf3.png)
+![Pipeline script](https://github.com/Pezu-git/netology-8-02-hw/blob/main/img/pipelineconf4.png)
 
 2. `Результат сборки проекта Pipeline`
 
