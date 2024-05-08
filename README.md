@@ -2,6 +2,8 @@
 
 `Freestyle Project`
 
+`Задание №1`
+
 1. `Настройки проекта. Git-репозиторий для сборки`
 
 ![Репозиторий для сборки](https://github.com/Pezu-git/netology-8-02-hw/blob/main/img/repo.png)
@@ -17,3 +19,15 @@
 ![Результат сборки](https://github.com/Pezu-git/netology-8-02-hw/blob/main/img/project1.png)
 
 ![Результат сборки. Консоль](https://github.com/Pezu-git/netology-8-02-hw/blob/main/img/consoleresult1.png)
+
+`Задание №2`
+
+1. `Настройки проекта.`
+
+![Pipeline script](https://github.com/Pezu-git/netology-8-02-hw/blob/main/img/pipelineconf.png)
+
+2. `Результат сборки проекта Pipeline`
+
+![Результат сборки](https://github.com/Pezu-git/netology-8-02-hw/blob/main/img/pipelineresult.png)
+
+![Результат сборки. Консоль](https://github.com/Pezu-git/netology-8-02-hw/blob/main/img/pipelineresult2.png)
