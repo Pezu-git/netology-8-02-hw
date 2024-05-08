@@ -31,3 +31,17 @@
 ![Результат сборки](https://github.com/Pezu-git/netology-8-02-hw/blob/main/img/pipelineresult.png)
 
 ![Результат сборки. Консоль](https://github.com/Pezu-git/netology-8-02-hw/blob/main/img/pipelineresult2.png)
+
+`Задание №3`
+
+1. `Настройки проекта.`
+
+![Pipeline script](https://github.com/Pezu-git/netology-8-02-hw/blob/main/img/pipelineconf3.png)
+
+2. `Результат сборки проекта Pipeline`
+
+![Результат сборки](https://github.com/Pezu-git/netology-8-02-hw/blob/main/img/pipelineresult3.png)
+
+![Результат сборки. Консоль](https://github.com/Pezu-git/netology-8-02-hw/blob/main/img/pipelineresult4.png)
+
+![Результат сборки. Консоль](https://github.com/Pezu-git/netology-8-02-hw/blob/main/img/pipelineresult5.png)
