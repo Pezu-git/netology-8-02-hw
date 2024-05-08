@@ -1,22 +1,19 @@
-# Что такое DevOps. СI/СD
+# Что такое DevOps. СI/СD.
 
-`Последовательность вызова команд`
+`Freestyle Project`
 
-1. `terraform apply - Создание ВМ terraform1`
+1. `Настройки проекта. Git-репозиторий для сборки`
 
-![terraform apply](https://github.com/Pezu-git/CI-CD.-Terraform-HW-2/blob/main/img/tarraformapply.png)
+![Репозиторий для сборки](https://github.com/Pezu-git/netology-8-02-hw/blob/main/img/repo.png)
 
-2. `yc compute instance list - Вывод списка существующих ВМ`
+![Ветка репозитория](https://github.com/Pezu-git/netology-8-02-hw/blob/main/img/repobranch.png)
 
-![vm list](https://github.com/Pezu-git/CI-CD.-Terraform-HW-2/blob/main/img/vmlist.png)
+2. `Настройки проекта. Шаги сборки`
 
-3. `ansible-playbook -i inventory playbooks/install_nginx.yml - Установка nginx на хосты, указанные в файле inventory`
+![Shell](https://github.com/Pezu-git/netology-8-02-hw/blob/main/img/shell1.png)
 
-![ansible install nginx](https://github.com/Pezu-git/CI-CD.-Terraform-HW-2/blob/main/img/installnginx.png)
+3. `Результат сборки Freestyle Project`
 
-4. `ansible-playbook -i inventory playbooks/checknginx.yml - Проверка статуса и версии nginx на ВМ terraform1`
+![Результат сборки](https://github.com/Pezu-git/netology-8-02-hw/blob/main/img/project1.png)
 
-![ansible check nginx](https://github.com/Pezu-git/CI-CD.-Terraform-HW-2/blob/main/img/checknginx.png)
-
-
-
+![Результат сборки. Консоль](https://github.com/Pezu-git/netology-8-02-hw/blob/main/img/consoleresult1.png)
